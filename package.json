@@ -1,0 +1,12 @@
+{
+  "name": "peer_challenge_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "Paige and Zeeshan",
+  "license": "ISC"
+}
